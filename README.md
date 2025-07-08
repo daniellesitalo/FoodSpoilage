@@ -18,9 +18,9 @@ To run the code, users should open the ...
 
 **Danielle Sitalo** is a rising junior from Texas, studying Statistics at Texas A&M University. 
 
-**Uma Mandapati** is from Worcester Polytechnic Institute. 
+**Uma Mandapati** is a rising junior from Rhode Island, studying Mathematics and Computer Science at Worcester Polytechnic Institute. 
 
-**Edwin Vazquez Vega** is from Inter-American University of Puerto Rico, Bayamón Campus. 
+**Edwin Vazquez Vega** is from Inter-American University of Puerto Rico, Bayamón Campus.
 
 
 ## Acknowledgments
